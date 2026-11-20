@@ -1,0 +1,44 @@
+{
+  "packs": [
+    {
+      "id": "space",
+      "name": "Space & Astronomy",
+      "description": "Planets, stars, galaxies, and cosmic phenomena.",
+      "price": 120,
+      "word_count": 36,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/space.txt"
+    },
+    {
+      "id": "mythology",
+      "name": "Mythology",
+      "description": "Legends, deities, heroes, and ancient creatures.",
+      "price": 150,
+      "word_count": 34,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/mythology.txt"
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean & Marine",
+      "description": "Deep sea creatures, reefs, tides, and voyages.",
+      "price": 100,
+      "word_count": 35,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/ocean.txt"
+    },
+    {
+      "id": "music",
+      "name": "Music & Instruments",
+      "description": "Melodies, rhythms, orchestras, and instruments.",
+      "price": 120,
+      "word_count": 35,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/music.txt"
+    },
+    {
+      "id": "coding",
+      "name": "Tech & Coding",
+      "description": "Algorithms, networks, hardware, and software.",
+      "price": 180,
+      "word_count": 35,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/coding.txt"
+    }
+  ]
+}
