@@ -143,6 +143,22 @@
       "price": 250,
       "word_count": 120,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen9.txt"
+    },
+    {
+      "id": "car_brands",
+      "name": "Car Brands",
+      "description": "50 famous automotive manufacturers from around the world.",
+      "price": 100,
+      "word_count": 50,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/car_brands.txt"
+    },
+    {
+      "id": "ph_provinces",
+      "name": "Philippine Provinces",
+      "description": "Provinces across Luzon, Visayas, and Mindanao.",
+      "price": 100,
+      "word_count": 78,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/ph_provinces.txt"
     }
   ]
 }
