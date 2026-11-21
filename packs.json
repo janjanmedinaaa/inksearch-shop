@@ -12,7 +12,7 @@
       "id": "mythology",
       "name": "Mythology",
       "description": "Legends, deities, heroes, and ancient creatures.",
-      "price": 150,
+      "price": 0,
       "word_count": 34,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/mythology.txt"
     },
@@ -28,7 +28,7 @@
       "id": "music",
       "name": "Music & Instruments",
       "description": "Melodies, rhythms, orchestras, and instruments.",
-      "price": 150,
+      "price": 0,
       "word_count": 35,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/music.txt"
     },
