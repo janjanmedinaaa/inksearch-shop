@@ -4,7 +4,7 @@
       "id": "space",
       "name": "Space & Astronomy",
       "description": "Planets, stars, galaxies, and cosmic phenomena.",
-      "price": 120,
+      "price": 150,
       "word_count": 36,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/space.txt"
     },
@@ -20,7 +20,7 @@
       "id": "ocean",
       "name": "Ocean & Marine",
       "description": "Deep sea creatures, reefs, tides, and voyages.",
-      "price": 100,
+      "price": 150,
       "word_count": 35,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/ocean.txt"
     },
@@ -28,7 +28,7 @@
       "id": "music",
       "name": "Music & Instruments",
       "description": "Melodies, rhythms, orchestras, and instruments.",
-      "price": 120,
+      "price": 150,
       "word_count": 35,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/music.txt"
     },
@@ -36,9 +36,113 @@
       "id": "coding",
       "name": "Tech & Coding",
       "description": "Algorithms, networks, hardware, and software.",
-      "price": 180,
+      "price": 150,
       "word_count": 35,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/coding.txt"
+    },
+    {
+      "id": "lol",
+      "name": "League of Legends",
+      "description": "All League of Legends champions in one pack.",
+      "price": 300,
+      "word_count": 172,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/lol.txt"
+    },
+    {
+      "id": "mlbb",
+      "name": "Mobile Legends",
+      "description": "All Mobile Legends: Bang Bang heroes in one pack.",
+      "price": 250,
+      "word_count": 133,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/mlbb.txt"
+    },
+    {
+      "id": "mcu",
+      "name": "MCU Heroes & Villains",
+      "description": "Core Marvel Cinematic Universe heroes and villains.",
+      "price": 200,
+      "word_count": 65,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/mcu.txt"
+    },
+    {
+      "id": "pdc_darts",
+      "name": "PDC Dart Players",
+      "description": "Top 100 PDC Order of Merit player last names.",
+      "price": 200,
+      "word_count": 99,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pdc_darts.txt"
+    },
+    {
+      "id": "pokemon_gen1",
+      "name": "Pokemon Gen 1 (Kanto)",
+      "description": "Original 151 Kanto region Pokemon.",
+      "price": 300,
+      "word_count": 151,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen1.txt"
+    },
+    {
+      "id": "pokemon_gen2",
+      "name": "Pokemon Gen 2 (Johto)",
+      "description": "All 100 Johto region Pokemon.",
+      "price": 250,
+      "word_count": 100,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen2.txt"
+    },
+    {
+      "id": "pokemon_gen3",
+      "name": "Pokemon Gen 3 (Hoenn)",
+      "description": "All 135 Hoenn region Pokemon.",
+      "price": 250,
+      "word_count": 135,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen3.txt"
+    },
+    {
+      "id": "pokemon_gen4",
+      "name": "Pokemon Gen 4 (Sinnoh)",
+      "description": "All 107 Sinnoh region Pokemon.",
+      "price": 250,
+      "word_count": 107,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen4.txt"
+    },
+    {
+      "id": "pokemon_gen5",
+      "name": "Pokemon Gen 5 (Unova)",
+      "description": "All 156 Unova region Pokemon.",
+      "price": 300,
+      "word_count": 156,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen5.txt"
+    },
+    {
+      "id": "pokemon_gen6",
+      "name": "Pokemon Gen 6 (Kalos)",
+      "description": "All 72 Kalos region Pokemon.",
+      "price": 200,
+      "word_count": 72,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen6.txt"
+    },
+    {
+      "id": "pokemon_gen7",
+      "name": "Pokemon Gen 7 (Alola)",
+      "description": "All 88 Alola region Pokemon.",
+      "price": 200,
+      "word_count": 88,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen7.txt"
+    },
+    {
+      "id": "pokemon_gen8",
+      "name": "Pokemon Gen 8 (Galar)",
+      "description": "All 96 Galar region Pokemon.",
+      "price": 200,
+      "word_count": 96,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen8.txt"
+    },
+    {
+      "id": "pokemon_gen9",
+      "name": "Pokemon Gen 9 (Paldea)",
+      "description": "All 120 Paldea region Pokemon.",
+      "price": 250,
+      "word_count": 120,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/inksearch-shop/main/packs/pokemon_gen9.txt"
     }
   ]
 }
